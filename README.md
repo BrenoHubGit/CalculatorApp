@@ -18,3 +18,7 @@ Estrutura do Projeto
 Model: Contém a lógica para realizar os cálculos.
 View: Responsável pela interface do usuário, exibindo os botões e os resultados.
 Controller: Controla a interação entre o modelo e a interface, respondendo às ações do usuário.
+
+![image](https://github.com/user-attachments/assets/92242a7d-db75-4757-a04c-d035d08ad2be)
+
+
